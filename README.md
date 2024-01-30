@@ -10,4 +10,7 @@ Eu recomendo muito que baixe este projeto. Eu não tenho mais utilidade para us�
 # Atenção:
 - Para que eu não fique totalmente no prejuízo, coloquei acima uma versão segura do código. Peço que não tente editá-lo.
 - Para me ajudar e também obter o código original, peço que acesse o link abaixo. Ele o direcionará para a página de download.
+  ********* LINK OFICIAL DOWNLOAD ************
+    ------https://seulink.online/eRjkK2i---
+  
 - Lembrando que precisei remover algumas coisas porque mudei o Firebase. Portanto, recomendo aprender como as ferramentas funcionam e reativá-las. Se você ganhar algum prêmio, por favor, não se esqueça de mim! :(
